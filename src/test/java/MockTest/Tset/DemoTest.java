@@ -23,7 +23,7 @@ public class DemoTest extends TestCase {
 
 	
 	    // 抛出异常
-	    System.out.println(mockeddemo.get(1));
+	  //  System.out.println(mockeddemo.get(1));
 
 
 	    // 因为get(2) 没有打桩，因此输出null
